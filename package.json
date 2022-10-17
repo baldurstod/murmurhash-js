@@ -11,8 +11,5 @@
 	"repository": {
 		"type": "git",
 		"url": "git://github.com/baldurstod/murmurhash-js"
-	},
-	"publishConfig": {
-		"registry":"https://npm.pkg.github.com"
 	}
 }
